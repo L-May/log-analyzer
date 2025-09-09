@@ -1,0 +1,2 @@
+2025-09-09 09:04:05 ERROR Failed to connect to database
+2025-09-09 09:06:47 ERROR Timeout while calling external API
