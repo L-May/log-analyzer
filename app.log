@@ -1,0 +1,9 @@
+2025-09-09 09:00:01 INFO  Server started successfully
+2025-09-09 09:01:15 INFO  User 'alice' logged in
+2025-09-09 09:02:42 WARN  Disk space running low on /dev/sda1
+2025-09-09 09:03:10 INFO  Scheduled backup started
+2025-09-09 09:04:05 ERROR Failed to connect to database
+2025-09-09 09:05:22 INFO  User 'bob' logged out
+2025-09-09 09:06:47 ERROR Timeout while calling external API
+2025-09-09 09:08:30 WARN  High memory usage detected
+2025-09-09 09:09:55 INFO  Server heartbeat OK
